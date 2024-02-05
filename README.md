@@ -22,9 +22,13 @@ The following **suggeted** functionality is completed:
 ## Video Walkthrough
 
     
+ <div>
+    <a href="https://www.loom.com/share/8e49555115bd45b594bf0596a410bf9b">
+    </a>
     <a href="https://www.loom.com/share/8e49555115bd45b594bf0596a410bf9b">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/8e49555115bd45b594bf0596a410bf9b-with-play.gif">
     </a>
+  </div>
   
 
 ## App Brainstorming (Step 4)
